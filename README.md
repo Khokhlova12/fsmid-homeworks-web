@@ -1,7 +1,5 @@
 # Домашние задания на курсе «Python в веб-разработке»
 
-Блок 1. DevOps: автоматизация развертывания
-
 1. [Основы терминала](./1.1-console)
 2. [Развертывание проекта](./1.2-deploy)
 3. [Docker](./1.3-docker)
@@ -11,11 +9,8 @@
 Блок 2. Другие подходы к web-разработке
 
 1. [Flask](./2.1-flask)
-2. [Event loop. Asyncio](./2.2-asyncio)
-3. [Aiohttp](./2.3-aiohttp)
-4. [Celery](./2.4-celery)
-5. [FastApi ч.1](./3.1-fast-api-1)
-6. [FastApi ч.2](./3.2-fast-api-2)
+2. [FastApi ч.1](./3.1-fast-api-1)
+3. [FastApi ч.2](./3.2-fast-api-2)
 
 ## Как сдавать задачи
 
